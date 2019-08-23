@@ -1,0 +1,3 @@
+getter
+cantidadDePersonas
+	^ personas size.

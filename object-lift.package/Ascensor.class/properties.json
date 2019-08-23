@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "object-lift",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"personas",
+		"pesoMaximo"
+	],
+	"name" : "Ascensor",
+	"type" : "normal"
+}
